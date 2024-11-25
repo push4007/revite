@@ -1,3 +1,5 @@
+Rough commit for using bot
+
 # Deprecation Notice
 
 This project is deprecated, however it still may receive maintenance updates.
@@ -35,14 +37,14 @@ This is the web client for Revolt, which is also available live at [app.revolt.c
 
 The following code is pending a partial or full rewrite:
 
--   `src/components`: components are being migrated to [revoltchat/components](https://github.com/revoltchat/components)
--   `src/styles`: needs to be migrated to [revoltchat/components](https://github.com/revoltchat/components)
--   `src/lib`: this needs to be organised
+- `src/components`: components are being migrated to [revoltchat/components](https://github.com/revoltchat/components)
+- `src/styles`: needs to be migrated to [revoltchat/components](https://github.com/revoltchat/components)
+- `src/lib`: this needs to be organised
 
 ## Stack
 
--   [Preact](https://preactjs.com/)
--   [Vite](https://vitejs.dev/)
+- [Preact](https://preactjs.com/)
+- [Vite](https://vitejs.dev/)
 
 ## Submodule Hint
 
@@ -53,14 +55,14 @@ It is also recommended to run `git submodule update` after you pull from upstrea
 
 ### Revite
 
--   [Revite Issue Board](https://github.com/revoltchat/revite/issues)
--   [Google Drive Folder with Screenshots](https://drive.google.com/drive/folders/1Ckhl7_9OTTaKzyisrWHzZw1hHj55JwhD)
+- [Revite Issue Board](https://github.com/revoltchat/revite/issues)
+- [Google Drive Folder with Screenshots](https://drive.google.com/drive/folders/1Ckhl7_9OTTaKzyisrWHzZw1hHj55JwhD)
 
 ### Revolt
 
--   [Revolt Project Board](https://github.com/revoltchat/revolt/discussions) (Submit feature requests here)
--   [Revolt Testers Server](https://app.revolt.chat/invite/Testers)
--   [Contribution Guide](https://developers.revolt.chat/contributing)
+- [Revolt Project Board](https://github.com/revoltchat/revolt/discussions) (Submit feature requests here)
+- [Revolt Testers Server](https://app.revolt.chat/invite/Testers)
+- [Contribution Guide](https://developers.revolt.chat/contributing)
 
 ## Quick Start
 
@@ -74,7 +76,7 @@ yarn build:deps
 yarn dev
 ```
 
-You can now access the client at http://local.revolt.chat:3000.
+You can now access the client at <http://local.revolt.chat:3000>.
 
 ## CLI Commands
 
